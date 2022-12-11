@@ -1,1 +1,1 @@
-print ("Shir");
+print ("Mor");
